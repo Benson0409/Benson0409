@@ -2,6 +2,15 @@
 
 🎮 我是一位熱愛技術與挑戰的學生，目前就讀於國立台北教育大學「玩具與遊戲設計碩士班」，擁有數位科技設計的背景，專注於遊戲開發、AI 應用與 iOS 行動應用開發。
 
+---
+
+## 📊 GitHub 活躍統計 & 技術語言分佈
+
+![Benson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Benson0409&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Benson0409&layout=compact&theme=tokyonight)
+
+---
+
 ## 🚀 目前專案 Project Highlights
 
 ### 🧩 FouRest – 3D AR 解謎手機遊戲
@@ -11,6 +20,8 @@
 結合實體卡牌與擴增實境，讓使用者在互動中學習生態保育觀念，致力於遊戲與教育的融合。
 
 👉 更多專案歡迎參考：[我的 GitHub Repositories](https://github.com/Benson0409?tab=repositories)
+
+---
 
 ## 💼 實習與經歷 Experience
 
@@ -23,16 +34,22 @@
 - 📱 **iOS Club 創社社長**  
   成立校內首個 iOS 開發社團，帶領學弟妹學習 SwiftUI 並參與 App 開發競賽。
 
+---
+
 ## 🧠 技術 Skills
 
 - 💻 **語言**：C#（中階）、Python（中階）、Swift（中階）
 - 🛠 **工具**：Unity、Xcode、Docker、MySQL、LangChain、Git
 - 🤖 **AI 工具**：ChatGPT 協助開發
 
+---
+
 ## 🎓 教育背景
 
 - 🎓 國立台北教育大學 玩具與遊戲設計碩士班（2024.09 – Present）
 - 🎓 國立台北教育大學 數位科技設計學士（2020.09 – 2024.06）
+
+---
 
 ## 📫 聯絡方式
 
