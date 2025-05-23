@@ -6,7 +6,7 @@
 
 ## 📊 GitHub 活躍統計 & 技術語言分佈
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Benson0409&theme=github-compact)
+![Benson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Benson0409&show_icons=true&include_all_commits=true&count_private=true&hide=prs,issues,contribs&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Benson0409&layout=compact&theme=tokyonight)
 
 ---
